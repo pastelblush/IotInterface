@@ -1,0 +1,96 @@
+.firstrow {
+    /*background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?dpr=2&fit=crop&fm=jpg&h=775&q=50&w=1450);*/
+    background:  url(http://www.automationworld.com/sites/default/files/field/image/beckhoff_crev_fin_copy.jpg);
+    background-size: cover;
+    background-position: center; 
+    height: 100%;
+}
+
+.secondrow {
+    /*background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?dpr=2&fit=crop&fm=jpg&h=775&q=50&w=1450);*/
+    /*background:  url(asiawater.gif);*/
+    /*background-size: cover;*/
+    /*background-position: center; */
+
+}
+.asiawaterimg{
+    max-width: 100%;
+    height : auto;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.thirdrow{
+    /*background: grey;*/
+    padding-top: 1%;
+}
+
+.indicator{
+    height: 35px;
+    border: 1px solid black;
+    background: grey;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.indicator-box{
+    /*padding: 10px 10px 10px 10px;*/
+    /*background: orange;*/
+    height: 30px;
+    border: 1px solid black;
+}
+
+.control-box{
+    /*padding: 10px 10px 10px 10px;*/
+    background: grey;
+    height: 30px;
+    border: 1px solid black;
+}
+
+.red {
+    color: red;
+}
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    font-family: "Lato";
+    color: white;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
+}
+
+.control{
+    padding: auto auto auto auto;
+    display: block;
+    background: green;
+    height: 35px;
+    border: 1px solid black;
+    font-weight: 700;
+    font-size: 1.5em;
+
+}
+.content{
+	padding-top: 10%;
+	text-align: center;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.indicator-row
+{
+    height: 30px;
+}
+
+hr {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
