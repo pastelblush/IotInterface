@@ -1,0 +1,20 @@
+Emergency Button : DEV..DiI[3]  ---------------  bEmergency
+I/O Terminal Status : DEV..wcState[0] ------------- bIOTerm
+Temp. Sensor: DEV..Relay[1]	---------------------bTemp
+irThermocoupler[0]-------rTemp
+
+Float Sensor 1: DEV..DiI[0]----bFloat1
+Float Sensor 2: DEV..DiI[1]----bFloat2
+Float Sensor 3: DEV..DiI[2]----bFloat3
+Tank Level : DEV..rTankLevel[0]-----rTankLevel
+
+Pump 1 Status:DEV..DiO[0]----bPump1
+Pump 2 Status:DEV..DiO[1]----bPump2
+Mode:DEV..bAuto------bAuto
+
+rTempLimit:rTempLimit[0]----rTempLimit
+
+
+DEV..bPump1
+DEV..bPump2
+DEV..bAuto
